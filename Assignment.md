@@ -8,4 +8,4 @@
    2. Try understanding Linear Regression and algorithms.
    3. Explain what you understood in points (more that 200 words)
    4. Below put your Name and contact information,so that your details can be added if your article is selected for getting published.
-5. Create pull request and put the link in [this issue](https://github.com/DevIncept/ML_Module2/issues/1)
+5. Create pull request and put the link in **Quiz form** which will be shared on monday.
