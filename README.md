@@ -11,9 +11,9 @@
 
 6. [Over-fitting Notebook](Over-fitting.ipynb)
 
-7. [Classification Problem](https://github.com/Learn-Write-Repeat/Open-contributions/blob/master/KanchiTank_ML_Classification.md) 
+7. [Performance Measure](https://github.com/Learn-Write-Repeat/Open-contributions/blob/master/Drishti_ML_ClassificationProblemEvaluation.md)
 
-8. [Performance Measure](https://github.com/Learn-Write-Repeat/Open-contributions/blob/master/Drishti_ML_ClassificationProblemEvaluation.md)
+8. [Classification Problem](https://github.com/Learn-Write-Repeat/Open-contributions/blob/master/KanchiTank_ML_Classification.md) 
 
 9. [Linear Regression](https://github.com/Learn-Write-Repeat/Open-contributions/blob/master/Anshul_ML_regression.md) 
 
