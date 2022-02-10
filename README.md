@@ -3,21 +3,20 @@
 
 2. [Unsupervised Learning](https://github.com/Learn-Write-Repeat/Open-contributions/blob/master/Shivani_ML_unsupervised%26clustering.md)
 
-3.[Under-Fitting](Under-Fitting.md)
+3. [Under-Fitting](Under-Fitting.md)
 
-4.[Under-Fitting Notebook](Under-Fitting.ipynb)
+4. [Under-Fitting Notebook](Under-Fitting.ipynb)
 
-5.[Over-fitting](Over-fitting.md)
+5. [Over-fitting](Over-fitting.md)
 
-5.[Over-fitting Notebook](Over-fitting.ipynb)
+6. [Over-fitting Notebook](Over-fitting.ipynb)
 
+7. [Classification Problem](https://github.com/Learn-Write-Repeat/Open-contributions/blob/master/KanchiTank_ML_Classification.md) 
 
-4. [Classification Problem](https://github.com/Learn-Write-Repeat/Open-contributions/blob/master/KanchiTank_ML_Classification.md) 
+8. [Performance Measure](https://github.com/Learn-Write-Repeat/Open-contributions/blob/master/Drishti_ML_ClassificationProblemEvaluation.md)
 
-5. [Performance Measure](https://github.com/Learn-Write-Repeat/Open-contributions/blob/master/Drishti_ML_ClassificationProblemEvaluation.md)
+9. [Linear Regression](https://github.com/Learn-Write-Repeat/Open-contributions/blob/master/Anshul_ML_regression.md) 
 
-6. [Linear Regression](https://github.com/Learn-Write-Repeat/Open-contributions/blob/master/Anshul_ML_regression.md) 
-
-7. [Linear Regression notebook](https://github.com/Learn-Write-Repeat/Open-contributions/blob/master/Anshul_ML_regression.ipynb) 
+10. [Linear Regression notebook](https://github.com/Learn-Write-Repeat/Open-contributions/blob/master/Anshul_ML_regression.ipynb) 
 
 8. [Assignment](Assignment.md) 
