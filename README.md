@@ -13,10 +13,4 @@
 
 7. [Performance Measure](https://github.com/Learn-Write-Repeat/Open-contributions/blob/master/Drishti_ML_ClassificationProblemEvaluation.md)
 
-8. [Classification Problem](https://github.com/Learn-Write-Repeat/Open-contributions/blob/master/KanchiTank_ML_Classification.md) 
-
-9. [Linear Regression](https://github.com/Learn-Write-Repeat/Open-contributions/blob/master/Anshul_ML_regression.md) 
-
-10. [Linear Regression notebook](https://github.com/Learn-Write-Repeat/Open-contributions/blob/master/Anshul_ML_regression.ipynb) 
-
 8. [Assignment](Assignment.md) 
