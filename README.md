@@ -3,6 +3,15 @@
 
 2. [Unsupervised Learning](https://github.com/Learn-Write-Repeat/Open-contributions/blob/master/Shivani_ML_unsupervised%26clustering.md)
 
+3.[Under-Fitting](Under-Fitting.md)
+
+4.[Under-Fitting Notebook](Under-Fitting.ipynb)
+
+5.[Over-fitting](Over-fitting.md)
+
+5.[Over-fitting Notebook](Over-fitting.ipynb)
+
+
 4. [Classification Problem](https://github.com/Learn-Write-Repeat/Open-contributions/blob/master/KanchiTank_ML_Classification.md) 
 
 5. [Performance Measure](https://github.com/Learn-Write-Repeat/Open-contributions/blob/master/Drishti_ML_ClassificationProblemEvaluation.md)
