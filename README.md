@@ -5,12 +5,16 @@
 
 3. [Under-Fitting](Under-Fitting.md)
 
-4. [Under-Fitting Notebook](Under-Fitting.ipynb)
+4. [Video: Under-Fitting](https://youtu.be/zdANzjMNLXw) 
 
-5. [Over-fitting](Over-fitting.md)
+5. [Under-Fitting Notebook](Under-Fitting.ipynb)
 
-6. [Over-fitting Notebook](Over-fitting.ipynb)
+6. [Over-fitting](Over-fitting.md)
 
-7. [Performance Measure](https://github.com/Learn-Write-Repeat/Open-contributions/blob/master/Drishti_ML_ClassificationProblemEvaluation.md)
+7. [Video: Over-Fitting](https://youtu.be/u3KUskK2Nmk)
 
-8. [Assignment](Assignment.md) 
+8. [Over-fitting Notebook](Over-fitting.ipynb)
+
+9. [Performance Measure](https://github.com/Learn-Write-Repeat/Open-contributions/blob/master/Drishti_ML_ClassificationProblemEvaluation.md)
+
+10. [Assignment](Assignment.md) 
