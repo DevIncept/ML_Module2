@@ -1,16 +1,20 @@
 # ML_Module2
-1. [Supervised Learning](https://github.com/Learn-Write-Repeat/Open-contributions/blob/master/Yash_SL_Regression%26Classification.md) 
+1. [Supervised Learning](https://github.com/Learn-Write-Repeat/Open-contributions/blob/master/Yash_SL_Regression%26Classification.md) 📓
 
-2. [Unsupervised Learning](https://github.com/Learn-Write-Repeat/Open-contributions/blob/master/Shivani_ML_unsupervised%26clustering.md)
+2. [Unsupervised Learning](https://github.com/Learn-Write-Repeat/Open-contributions/blob/master/Shivani_ML_unsupervised%26clustering.md)📓
 
-3. [Regression Problem](https://github.com/Learn-Write-Repeat/Open-contributions/blob/master/Yash_SL_Regression%26Classification.md) 
+3. [Under-Fitting](Under-Fitting.md)📓
 
-4. [Classification Problem](https://github.com/Learn-Write-Repeat/Open-contributions/blob/master/KanchiTank_ML_Classification.md) 
+4. [Video: Under-Fitting](https://youtu.be/zdANzjMNLXw)📹
 
-5. [Performance Measure](https://github.com/Learn-Write-Repeat/Open-contributions/blob/master/Drishti_ML_ClassificationProblemEvaluation.md)
+5. [Under-Fitting Notebook](Under-Fitting.ipynb)💻
 
-6. [Linear Regression](https://github.com/Learn-Write-Repeat/Open-contributions/blob/master/Anshul_ML_regression.md) 
+6. [Over-fitting](Over-fitting.md)📓
 
-7. [Linear Regression notebook](https://github.com/Learn-Write-Repeat/Open-contributions/blob/master/Anshul_ML_regression.ipynb) 
+7. [Video: Over-Fitting](https://youtu.be/u3KUskK2Nmk)📹
 
-8. [Assignment](Assignment.md) 
+8. [Over-fitting Notebook](Over-fitting.ipynb)💻
+
+9. [Performance Measure](https://github.com/Learn-Write-Repeat/Open-contributions/blob/master/Drishti_ML_ClassificationProblemEvaluation.md)📓
+
+10. [Assignment](Assignment.md) 
